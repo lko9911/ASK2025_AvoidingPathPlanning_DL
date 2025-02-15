@@ -2,8 +2,11 @@
 
 - 알고리즘
 
-![image01](https://github.com/user-attachments/assets/905cb184-5e0d-433e-8a67-922ec031189a)
-<br><br>
+![image01](https://github.com/user-attachments/assets/905cb184-5e0d-433e-8a67-922ec031189a) <br><br>
+
+- ppt (제작중) <br><br>
+
+## 폴더 구성 <br><br>
 <pre><code>/코드
   /1. ResU-Net 관련
   /2. YOLO-DeepSORT 관련 + 1차 경로 계획 (A* + OpenCV)
