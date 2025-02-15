@@ -6,10 +6,9 @@
 <br><br>
 <pre><code>/코드
   /1. ResU-Net 관련
-  /2. YOLO-DeepSORT 관련
-  /3. A* & OpenCV를 통한 예상 경로 시각화
-  /4. 방향 결정
-  /5. 최종 결과
+  /2. YOLO-DeepSORT 관련 + 1차 경로 계획 (A* + OpenCV)
+  /3. 방향 결정
+  /4. 최종 결과
   
 /인용 논문 정리
   /1. 서론 부분 인용 논문
