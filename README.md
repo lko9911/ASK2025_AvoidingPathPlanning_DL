@@ -19,25 +19,3 @@
 ![슬라이드15](https://github.com/user-attachments/assets/f7db0b6f-d1db-4eaf-b99f-84107a4f2d1a)
 ![슬라이드16](https://github.com/user-attachments/assets/500e7c1c-ca51-4d17-b74f-92c32581a21a)
 ![슬라이드17](https://github.com/user-attachments/assets/3028f316-e408-4b26-bf3f-156b35679336)
-
-
-- 알고리즘
-
-![image01](https://github.com/user-attachments/assets/905cb184-5e0d-433e-8a67-922ec031189a) <br><br>
-
-- ppt (제작중) <br><br>
-
-## 폴더 구성 <br><br>
-<pre><code>/코드
-  /1. ResU-Net 관련
-  /2. YOLO-DeepSORT 관련 + 1차 경로 계획 (A* + OpenCV)
-  /3. 방향 결정 + 2차 경로 계획 (방해물의 이동 방향 예측 공간추가 및 기준선)
-  /4. 최종 결과
-  
-/인용 논문 정리
-  /1. 서론 부분 인용 논문
-  /2. 도시거리이미지 데이터셋
-  /3. 사용 딥러닝 모델, 알고리즘 관련 논문 (ResU-Net, YOLO-DeepSORT, A* 알고리즘)
-
-/설명 ppt
-</code></pre>
